@@ -16,7 +16,6 @@ MySQL 8.0+ (Window Functions: RANK, AVG OVER, SUM OVER)
 
 ## 💡 Key Insights
 - MG Bus Station → Ameerpet is the busiest stop-pair with 421 passengers
-- [Apna ek aur insight likho jo Q1/Q2/Q3 se dikha]
 
 ## 📷 Screenshots
 ![Busiest Route](screenshots/q1_busiest_route.png)
