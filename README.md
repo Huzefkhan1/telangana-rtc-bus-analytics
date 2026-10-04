@@ -56,5 +56,4 @@ SQL-based analysis of bus routes, trips, and ridership patterns across Telangana
 ![Peak Hour Demand](screenshots/q3_peak_hour.png)
 ![Crowded Stops](screenshots/q4_crowded_stops.png)
 
-## 🔗 Author
-Huzef Khan — [GitHub](https://github.com/Huzefkhan1) | [LinkedIn](https://linkedin.com/in/huzef-khan)
+
